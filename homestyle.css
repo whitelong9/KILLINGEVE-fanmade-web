@@ -1,0 +1,78 @@
+body {
+  margin: 0px;
+  width: 100%
+}
+.a {
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+  display: block;
+  transform-origin: 200px 0px;
+  width: 100%;
+  max-height: 800px;
+  overflow: hidden;
+}
+.a img {
+  max-height: initial;
+  margin-bottom: -15%;
+}
+.ha {
+  position: absolute;
+  color: #dfc4c6;
+  font-size: 22px;
+  top: 230px;
+  left: 495px;
+  letter-spacing: 1px;
+}
+.b {
+  position: absolute;
+  width: 420px;
+  height: auto;
+  top: 76px;
+  left: 87px;
+}
+.c {
+  position: absolute;
+  width: 130px;
+  height: auto;
+  bottom: 0px;
+  left: 770px;
+}
+.blood {
+  position: absolute;
+  width: 20px;
+  height: auto;
+  top: 780px;
+  left: 104px;
+}
+ul {
+  position: absolute;
+  list-style: none;
+  top: 369px;
+  padding: 0px;
+  left: 103px;
+}
+ul li {
+  padding: 29px;
+  display: block;
+  letter-spacing: 5px;
+}
+a {
+  position: absolute;
+  color: #dfc4c6;
+  text-decoration: none;
+  font-size: 19px;
+  font-weight:400;
+}
+ul li a:hover{
+  color: #c31010
+}
+.line {
+  position: absolute;
+  border-left: #c31010 solid 2px;
+  width: 10px;
+  height: 640px;
+  top: 150px;
+  left: 113px;
+}

@@ -1,0 +1,140 @@
+ul {
+  position: absolute;
+  list-style: none;
+  top: 34px;
+  right: 200px;
+}
+ul li {
+  display: inline-block;
+  padding: 81px;
+  font-size: 22px;
+}
+a {
+  position: absolute;
+  color: #dfc4c6;
+  text-decoration: none;
+}
+ul li a:hover {
+  color: #c31010;
+}
+.head {
+  position: absolute;
+  top: 220px;
+  right: 120px;
+  font-size: 57px;
+  font-weight: bold;
+  color: #c31010
+}
+.logo {
+  position: absolute;
+  width: 360px;
+  height: auto;
+  top: 35px;
+  left: 50px;
+}
+.a {
+  position: absolute;
+  width: 135px;
+  height: auto;
+  bottom: 10px;
+  left: 770px;
+
+}
+.rectangle1 {
+  position: absolute;
+  width: 1680px;
+  height: 165px;
+  background-color: #080a21;
+  top: 0px;
+  left: 0px;
+}
+.img1 {
+  position: absolute;
+  width: 310px;
+  height: auto;
+  top: 290px;
+  left: 120px;
+}
+.img2 {
+  position: absolute;
+  width: 310px;
+  height: auto;
+  top: 506px;
+  left:120px;
+}
+.img3 {
+  position: absolute;
+  width:200px;
+  height:auto;
+  top:370px;
+  left: 560px;
+}
+.img4 {
+  position: absolute;
+  width: 230px;
+  height: 1uto;
+  top: 290px;
+  left: 710px;
+}
+.img5 {
+  position: absolute;
+  width: 200px;
+  height: auto;
+  top: 424px;
+  left: 830px;
+}
+iframe {
+  position: absolute;
+  width: 440px;
+  top: 355px;
+  right: 120px;
+}
+.rectangle2 {
+  position: absolute;
+  width: 160px;
+  height: 40px;
+  background-color: #080a21;
+  top: 290px;
+  left: 410px;
+
+}
+.rectangle3 {
+  position: absolute;
+  width: 334px;
+  height: 40px;
+  background-color: #080a21;
+  top: 677px;
+  left:500px;
+}
+.rectangle4 {
+  position: absolute;
+  width: 439px;
+  height: 40px;
+  background-color: #080a21;
+  top:678px;
+  right: 120px;
+}
+#here {
+  color: #c31010;
+}
+.main {
+  position: absolute;
+  font-size: 27px;
+  font-weight: 400;
+  color: #dfc4c6;
+}
+.still {
+  position: absolute;
+  top:270px;
+  left: 451px;
+}
+.fashion {
+  position: absolute;
+  top:657px;
+  left: 565px;
+}
+.clip {
+  position: absolute;
+  top: 657px;
+  right: 142px;
+}
